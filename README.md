@@ -1,6 +1,6 @@
 # Olá olá, eu sou a Siet S2
 
-
+<p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFlbTZtMzk0Y3V0d2NoNTU5NG01cnZ4d2tueWZqbXp0YWQ0bXBvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K7o9FdCoDnwEo/giphy.gif" alt="Gatinho fofo programando" />
 </p>
 
@@ -29,7 +29,8 @@
 </p>
 
 
-  <img src="[https://media.giphy.com/media/J0Mz2in9XMo2Ix4eJ5/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OG51dzA3bjdueHg2d3NmNW5qdm45cmllMHhuYzdyNHp6ajNwcGVwayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/loqBL8U5FKSxPpykQ0/giphy.gif)" />
+
+<img src="https://media.giphy.com/media/J0Mz2in9XMo2Ix4eJ5/giphy.gif" alt="Gif animado" />
 
 
 ---
