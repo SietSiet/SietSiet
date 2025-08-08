@@ -25,14 +25,7 @@
 ### ✨ Animação de estrelas
 ![Estrelas animadas](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
-
-
----
-
-### 📊 Contador de visitas
-![Contador de visitas](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=flat)
 
 ---
 
