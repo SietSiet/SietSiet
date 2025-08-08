@@ -30,8 +30,6 @@
 
 
 
-<img src="[https://media.giphy.com/media/J0Mz2in9XMo2Ix4eJ5/giphy.gif" alt="Gif animado](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OG51dzA3bjdueHg2d3NmNW5qdm45cmllMHhuYzdyNHp6ajNwcGVwayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/loqBL8U5FKSxPpykQ0/giphy.gif)" />
-
 
 ---
 
