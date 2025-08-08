@@ -24,9 +24,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFlbTZtMzk0Y3V0d2NoNTU5NG01cnZ4d2tueWZqbXp0YWQ0bXBvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K7o9FdCoDnwEo/giphy.gif" alt="Gatinho fofo programando" />
-</p>
+  ╱|、
+(`   -  7
+ |、⁻〵
+じしˍ,)ノ
 
 ---
 
